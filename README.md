@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oliviajakli
+- :books:	I’m interested in... basketball, soccer, anime, vegan cooking, mathematics, statistics, and geospatial analysis.
+- :brain:	I’m currently learning... machine learning, deep learning, and data structures and algorithms in Python.
+- 🌱 I’m looking to collaborate on... data science projects, especially in the areas of climate change prediction & mitigation, environmental impact & assessment, and geological monitoring & conservation.
+- 📫 Connect with me on LinkedIn and Kaggle.
